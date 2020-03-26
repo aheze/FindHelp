@@ -1,3 +1,8 @@
+---
+title: How to add a match
+layout: template
+filename: Lists-AddMatch.md
+--- 
 # How to add a match
 You can create a new match in 2 ways:
 1. Press the "New Match" button
