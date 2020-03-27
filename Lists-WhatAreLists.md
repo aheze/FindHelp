@@ -13,7 +13,7 @@ With Lists, you can save your searches for later. When you first install Find, 5
 
 
 
-Anyways, a "List" is a list of words that Find searches for simultaneously. The words that a list contains are called [Matches](https://zjohnzheng.github.io/FindHelp/Lists-WhatIsAMatch.html).
+Anyways, a "List" is a list of words that Find searches for simultaneously. The words that a list contains are called [Matches](/Lists-WhatIsAMatch.md).
 
 __Example:__ You make a list, called "Nature". It contains the following matches:
 
