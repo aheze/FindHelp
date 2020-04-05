@@ -1,5 +1,5 @@
 ---
-title: Find | Privacy Policy
+title: Privacy Policy
 ---
 
 ## Privacy Policy
