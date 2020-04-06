@@ -1,20 +1,20 @@
 
 ---
-title: Caching Photos
---- 
+title: Caching photos
+---
 
 # How do I cache photos?
 
 It's easy! You can even cache multiple photos in one go!
 
-__Caching multiple photos:__
+**Caching multiple photos:**
 
 1. Go to the History gallery, then press select
 2. Select the photos that you want to cache
 3. Hit the ![cache] button
 4. Caching will begin! Depending on how many photos you selected, caching will take anywhere from 5 seconds to a few minutes. Sit back and maybe get a snack or something.
 
-__Caching an individual photo:__
+**Caching an individual photo:**
 
 1. Go to the History gallery, then tap on a photo
 2. The photo should zoom in and you should see this on the bottom:
