@@ -4,7 +4,7 @@ title: Caching photos
 
 # How do I cache photos?
 
-It's easy! You can even cache multiple photos in one go!
+It's easy! You can even cache multiple photos at the same time.
 
 **Caching multiple photos:**
 
@@ -21,5 +21,6 @@ It's easy! You can even cache multiple photos in one go!
 4. Caching will begin! This will take a few seconds.
 
 > Something wrong? [Leave feedback](https://forms.gle/agdyoB9PFfnv8cU1A/)
+
 
 [cache]: https://raw.githubusercontent.com/zjohnzheng/FindHelp/master/images/cache.png
