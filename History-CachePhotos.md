@@ -18,7 +18,7 @@ __Caching an individual photo:__
 
 1. Go to the History gallery, then tap on a photo
 2. The photo should zoom in and you should see this on the bottom:
-3. Hit the ![cache] butto
+3. Hit the ![cache] button
 4. Caching will begin! This will take a few seconds.
 
 > Something wrong? [Leave feedback](https://forms.gle/agdyoB9PFfnv8cU1A/)
