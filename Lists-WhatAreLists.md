@@ -3,15 +3,9 @@ title: What are Lists?
 ---
  
 # What are Lists?
-With Lists, you can save your searches for later. When you first install Find, 5 pre-made lists are at your disposal:
-- Bad Ingredients
-- Nuts & Allergies
-- Typos
-- Swift Syntax
-- 
-
-
-
+With Lists, you can save your searches for later. When you first install Find, 2 pre-made lists are at your disposal:
+- Gluten-Free
+- Word Problems
 
 Anyways, a "List" is a list of words that Find searches for simultaneously. The words that a list contains are called [Matches](/Lists-WhatIsAMatch.md).
 
