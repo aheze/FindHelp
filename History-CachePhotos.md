@@ -2,6 +2,7 @@
 ---
 title: How do I cache photos?
 --- 
+
 # How do I cache photos?
 
 It's easy! You can even cache multiple photos in one go!
