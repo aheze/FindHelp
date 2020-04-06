@@ -3,7 +3,7 @@ title: History Controls
 --- 
 # History Controls
 **Find:**  (![alt](https://raw.githubusercontent.com/zjohnzheng/FindHelp/master/images/newSearch.png))
-Tap to find in the selected photo, or photos. If the photo is cached, search results will appear immediately. If it is not cached, you must press the `search` button on the keyboard to view results (An Fast OCR search will be performed).
+Tap to find in the selected photo, or photos. If the photo is cached, search results will appear immediately. If it is not cached, you must press the `search` button on the keyboard to view results (A Fast OCR search will be performed).
 
 **Heart:**  (![alt](https://raw.githubusercontent.com/zjohnzheng/FindHelp/master/images/heart.png))
 Tap to Heart a photo, or Unheart if it is already hearted. Hearting doesn't do anything except put a pink tint (and a heart icon!) on the photo, making it easier for you to find it.
