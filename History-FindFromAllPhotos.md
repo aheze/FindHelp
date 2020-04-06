@@ -13,4 +13,6 @@ Its easy!
 
 If all the photos that you've selected have been [cached](/History-WhatIsTheCache.md), results will appear as you type. If not, then you might need to hit the `search` button on the keyboard.
 
+> Something wrong? [Leave feedback](https://forms.gle/agdyoB9PFfnv8cU1A/)
+
 
