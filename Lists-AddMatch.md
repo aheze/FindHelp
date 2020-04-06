@@ -10,5 +10,7 @@ or
 
 - Start editing an existing match, then press `next` on the keyboard.
 
+> Something wrong? [Leave feedback](https://forms.gle/agdyoB9PFfnv8cU1A/)
+
 
 [logo]: https://raw.githubusercontent.com/zjohnzheng/FindHelp/master/images/newAddMatch.jpg
