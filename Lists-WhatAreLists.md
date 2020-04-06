@@ -51,7 +51,7 @@ To use it, simply tap on the list.
 To remove it, just tap on the newly added list.
 ![toolbarUse]
 
-
+> Something wrong? [Leave feedback](https://forms.gle/agdyoB9PFfnv8cU1A/)
 
 [addList]: https://raw.githubusercontent.com/zjohnzheng/FindHelp/master/images/addList.jpg
 [toolbar]: https://raw.githubusercontent.com/zjohnzheng/FindHelp/master/images/Toolbar.PNG
