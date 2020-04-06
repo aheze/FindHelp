@@ -8,7 +8,7 @@ You can create a new match in 2 ways:
 
 or
 
-- Start editing an existing match, then press "Next" on the keyboard.
+- Start editing an existing match, then press `next` on the keyboard.
 
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png
+[logo]: https://raw.githubusercontent.com/zjohnzheng/FindHelp/master/images/newAddMatch.jpg
