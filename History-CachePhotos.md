@@ -17,10 +17,12 @@ It's easy! You can even cache multiple photos at the same time.
 
 1. Go to the History gallery, then tap on a photo
 2. The photo should zoom in and you should see this on the bottom:
+![float]
 3. Hit the ![cache] button
 4. Caching will begin! This will take a few seconds.
 
 > Something wrong? [Leave feedback](https://forms.gle/agdyoB9PFfnv8cU1A/)
 
 
-[cache]: https://raw.githubusercontent.com/zjohnzheng/FindHelp/master/images/cache.png
+[cache]: https://raw.githubusercontent.com/zjohnzheng/FindHelp/master/images/indCache.jpg
+[float]: https://raw.githubusercontent.com/zjohnzheng/FindHelp/master/images/individualImageFloat.jpg
