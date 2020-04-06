@@ -49,6 +49,7 @@ In both places, your lists appear above you keyboard. See below:
 To use it, simply tap on the list. 
 
 To remove it, just tap on the newly added list.
+
 ![toolbarUse]
 
 > Something wrong? [Leave feedback](https://forms.gle/agdyoB9PFfnv8cU1A/)
