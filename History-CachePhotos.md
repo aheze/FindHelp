@@ -1,4 +1,3 @@
-
 ---
 title: Caching photos
 ---
