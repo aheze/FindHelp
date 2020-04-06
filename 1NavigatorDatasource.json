@@ -25,7 +25,12 @@
 		}
 			   
 	],
-	"HistoryFindHelpArray": [{
+	"HistoryFindHelpArray": [
+		{
+			"name": "History Controls",
+			"url": "https://zjohnzheng.github.io/FindHelp/History-HistoryControls.html"
+		},
+		{
 			"name": "What is the Cache?",
 			"url": "https://zjohnzheng.github.io/FindHelp/History-WhatIsTheCache.html"
 		},
@@ -71,6 +76,10 @@
 		{
 			"name": "How do I delete a match?",
 			"url": "https://zjohnzheng.github.io/FindHelp/Lists-DeleteMatch.html"
+		},
+		{
+			"name": "History Controls",
+			"url": "https://zjohnzheng.github.io/FindHelp/History-HistoryControls.html"
 		},
 		{
 			"name": "What is the Cache?",
