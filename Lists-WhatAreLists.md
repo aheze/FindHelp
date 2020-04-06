@@ -21,8 +21,8 @@ Now, when you use this list, Find searches for "Tree", "Rock", "Fish",  and "Sti
 ## Making your list
 1. Start at the home screen of Find. 
 2. Then, press the Menu button (The 3x3 dot grid), and then press the Lists button.
-3. Press the ![logo] button.
-4. The List Editor will appear! Add a name and description, then start adding Matches. Remember, matches are the words that Find will search for (when you use the list).
+3. Press the ![addList] button.
+4. The List Builder will appear! Add a name and description, then start adding Matches. Remember, matches are the words that Find will search for (when you use the list).
 
 ## Customizing your list
 __Changing the icon__
@@ -44,15 +44,15 @@ In Find, you can search for text either:
 
 In both places, your lists appear above you keyboard. See below:
 
-![logo]
+![toolbar]
 
 To use it, simply tap on the list. 
-![logo]
 
 To remove it, just tap on the newly added list.
-![logo]
+![toolbarUse]
 
 
 
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 
+[addList]: https://raw.githubusercontent.com/zjohnzheng/FindHelp/master/images/addList.jpg
+[toolbar]: https://raw.githubusercontent.com/zjohnzheng/FindHelp/master/images/Toolbar.PNG
+[toolbarUse]: https://raw.githubusercontent.com/zjohnzheng/FindHelp/master/images/Use%20List%20from%20Toolbar.PNG
