@@ -13,5 +13,6 @@ title: How do I delete a list?
 2. Scroll all the way down
 3. Press delete: ![deleteList]
 
-[deleteList](https://raw.githubusercontent.com/zjohnzheng/FindHelp/master/images/listSelectFloat.jpg)
-[deleteListFloat](https://raw.githubusercontent.com/zjohnzheng/FindHelp/master/images/listSelectFloat.jpg)
+
+[deleteList]: https://raw.githubusercontent.com/zjohnzheng/FindHelp/master/images/listSelectFloat.jpg
+[deleteListFloat]: https://raw.githubusercontent.com/zjohnzheng/FindHelp/master/images/listSelectFloat.jpg
