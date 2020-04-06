@@ -18,6 +18,10 @@
 		{
 			"name": "How do I delete a match??",
 			"url": "https://zjohnzheng.github.io/FindHelp/Lists-DeleteMatch.html"
+		},
+		{
+			"name": "I've found a bug. Can I send feedback?",
+			"url": "https://zjohnzheng.github.io/FindHelp/FoundBug-SendFeedback.html"
 		}
 			   
 	],
