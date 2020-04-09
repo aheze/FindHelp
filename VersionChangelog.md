@@ -16,5 +16,8 @@ Fixed bugs.
 - History find from multiple photos highlight color reverts to blue after coming dismissing zoomed photo
 - Crash on iPad whenever an ActionSheet tried to be presented
 - Placeholder image when camera access was denied
+
+
 UI Updates.
 - History corner radiuses are smarter
+- Improved Credits dark more support
