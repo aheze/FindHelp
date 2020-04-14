@@ -8,16 +8,19 @@ __1.0__
 
 App submitted to App store!
 
-__1.0.1__
+__1.0.1__ (141 Metadata Rejected, 158 resubmit)
 
-Fixed bugs.
-- Let's go button hidden underneath onboarding on devices with Notch
-- Stats view controller dissapears when a new match is found
-- History find from multiple photos highlight color reverts to blue after coming dismissing zoomed photo
-- Crash on iPad whenever an ActionSheet tried to be presented
+UI Updates:
+- History photos have smarter corner radii
+- Improved Dark Mode support
+- Smoother transition when tapping a photo in History (on iPad)
+Fixed these bugs:
+- Photos don’t appear in History on first launch / Crash when tapped
+- Go button partially covered during onboarding
+- Stats menu disappears when a new match is found
+- While finding from History, default highlight color reverts to blue after dismissing zoomed photo
+- Crash on iPad when tapping certain buttons
 - Placeholder image when camera access was denied
-
-
-UI Updates.
-- History corner radiuses are smarter
-- Improved Credits dark more support
+General Improvements:
+- As long as one photo is not yet cached, tapping Cache when multiple photos are selected will now cache all selected photos
+- Warnings are less obstructive
