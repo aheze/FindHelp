@@ -4,11 +4,11 @@ title: Find Version Changelog
 # Find's Changelog
 **Below you can see the history of Find!**
 
-__1.0__
+## 1.0
 
 App submitted to App store!
 
-__1.0.1__ (141 Metadata Rejected, 158 resubmit)
+## 1.0.1 (141 Metadata Rejected, 158 resubmit)
 
 UI Updates:
 - History photos have smarter corner radii
