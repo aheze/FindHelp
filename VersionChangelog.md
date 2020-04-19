@@ -4,7 +4,7 @@ title: Find Version Changelog
 # Find's Changelog
 **Below you can see the history of Find!**
 
-## _April 5_, 2020 - 1.0
+## _April 5, 2020_ - 1.0
 
 App submitted to App store!
 
