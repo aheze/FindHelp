@@ -26,3 +26,19 @@ Fixed these bugs:
 General Improvements:
 - As long as one photo is not yet cached, tapping Cache when multiple photos are selected will now cache all selected photos
 - Warnings are less obstructive
+
+## 1.0.1 (377)
+
+New Features:
+- Share photos!
+- Floating Keyboard support (iPad)
+
+Fixed these bugs:
+- Photos don’t appear in History on first launch
+- Context Menu interaction enabled during selection mode in History
+- Can’t dismiss onboarding
+- During Caching, first and last photos are clipped
+
+General Improvements:
+- Minor improvements in Lists Builder
+- Overlays are now also optimized for iPad
