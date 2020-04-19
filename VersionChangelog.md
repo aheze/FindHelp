@@ -4,11 +4,11 @@ title: Find Version Changelog
 # Find's Changelog
 **Below you can see the history of Find!**
 
-## April 5, 2020 - 1.0
+## _April 5_, 2020 - 1.0
 
 App submitted to App store!
 
-## 1.0.1 (April 9 - 141 Metadata Rejected, April 13 - 158 resubmit)
+## 1.0.1 (_April 9_ - 141 Metadata Rejected, _April 13_ - 158 resubmit)
 **Note:** Apple messed the build up. The submitted build was 158, but the build appearing on the App Store was 141.
 
 UI Updates:
@@ -28,7 +28,7 @@ General Improvements:
 - As long as one photo is not yet cached, tapping Cache when multiple photos are selected will now cache all selected photos
 - Warnings are less obstructive
 
-## 1.0.1 April 18 (377)
+## 1.0.1 _April 18_ (377)
 
 New Features:
 - Share photos!
