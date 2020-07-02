@@ -45,7 +45,7 @@ General Improvements:
 - Overlays are now also optimized for iPad
 
 
-## 1.1.0 _July 2_ (377)
+## 1.1.0 _July 2_ (732)
 
 你好！We've translated Find into Chinese! However, only English and Pinyin are currently accepted as input for our text recognition engine.
 
