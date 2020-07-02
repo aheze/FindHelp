@@ -4,7 +4,7 @@ title: Find Version Changelog
 # Find's Changelog
 **Below you can see the history of Find!**
 
-## _April 5, 2020_ - 1.0
+## 1.0 _April 5, 2020_
 
 App submitted to App store!
 
@@ -43,3 +43,23 @@ Fixed these bugs:
 General Improvements:
 - Minor improvements in Lists Builder
 - Overlays are now also optimized for iPad
+
+
+## 1.1.0 _July 2_ (377)
+
+你好！We've translated Find into Chinese! However, only English and Pinyin are currently accepted as input for our text recognition engine.
+
+More New Features:
+- More focused onboarding and tutorials
+- What's New screen for displaying new features
+
+Fixed these bugs:
+- "Ok" button covers up text in the tutorials
+- Icon preview in the Lists Builder appears overly large
+- Overlapping text in the Help screen
+
+Name changes:
+- "History" is now "Photos" (it got kind of confusing, so we renamed it)
+- "Matches" is now "Words to Find" (we thought Matches was overly complex for such a simple function)
+
+
