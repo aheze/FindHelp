@@ -47,7 +47,7 @@ General Improvements:
 
 ## 1.1.0 _July 2_ (732)
 
-你好！We've translated Find into Chinese! However, only English and Pinyin are currently accepted as input for our text recognition engine.
+您好！We've translated Find into Chinese! However, only English and Pinyin are currently supported as input by the text recognition engine.
 
 More New Features:
 - More focused onboarding and tutorials
@@ -59,7 +59,6 @@ Fixed these bugs:
 - Overlapping text in the Help screen
 
 Name changes:
-- "History" is now "Photos" (it got kind of confusing, so we renamed it)
-- "Matches" is now "Words to Find" (we thought Matches was overly complex for such a simple function)
-
+- "History" is now "Photos"
+- "Matches" is now "Words to Find"
 
