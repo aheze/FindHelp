@@ -55,10 +55,22 @@ More New Features:
 
 Fixed these bugs:
 - "Ok" button covers up text in the tutorials
-- Icon preview in the Lists Builder appears overly large
+- Icon preview in the Lists Builder appears overly large 
 - Overlapping text in the Help screen
 
 Name changes:
 - "History" is now "Photos"
 - "Matches" is now "Words to Find"
+
+## 1.1.1 _July 7_ (816)
+
+Visual improvements and minor bug fixes.
+
+General Improvements:
+- Tutorials appear only when you need them
+- Smoother transitions
+
+Fixed these bugs:
+- Overlapping text in Photos
+- No Chinese translation when Caching photos
 
