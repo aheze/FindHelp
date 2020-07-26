@@ -74,7 +74,7 @@ Fixed these bugs:
 - Overlapping text in Photos
 - No Chinese translation when Caching photos
 
-## 1.1.2 _July 24_ (853)
+## 1.1.2 _July 24_ (861)
 
 General Improvements.
 - Added background blurs
