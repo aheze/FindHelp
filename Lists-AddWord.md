@@ -2,8 +2,8 @@
 title: How to add a word
 --- 
 # How to add a word
-You can create a new word in 2 ways:
-- Press the **+ Add word** button
+You can add a new word in 2 ways:
+- Press the **Add word** button
 
 or
 
