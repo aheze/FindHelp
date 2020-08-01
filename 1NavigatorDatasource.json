@@ -8,16 +8,16 @@
 			"url": "https://aheze.github.io/FindHelp/Lists-DeleteList.html"
 		},
 		{
-			"name": "What is a match?",
-			"url": "https://aheze.github.io/FindHelp/Lists-WhatIsAMatch.html"
+			"name": "What is a \"Word to Find?\"",
+			"url": "https://aheze.github.io/FindHelp/Lists-WhatIsAWordToFind.html"
 		},
 		{
-			"name": "How do I add a match?",
-			"url": "https://aheze.github.io/FindHelp/Lists-AddMatch.html"
+			"name": "How do I add a word?",
+			"url": "https://aheze.github.io/FindHelp/Lists-AddWord.html"
 		},
 		{
-			"name": "How do I delete a match?",
-			"url": "https://aheze.github.io/FindHelp/Lists-DeleteMatch.html"
+			"name": "How do I delete a word?",
+			"url": "https://aheze.github.io/FindHelp/Lists-DeleteWord.html"
 		},
 		{
 			"name": "I've found a bug. Can I send feedback?",
@@ -70,12 +70,16 @@
 			"url": "https://aheze.github.io/FindHelp/Lists-DeleteList.html"
 		},
 		{
-			"name": "What is a match?",
-			"url": "https://aheze.github.io/FindHelp/Lists-WhatIsAMatch.html"
+			"name": "What is a \"Word to Find?\"",
+			"url": "https://aheze.github.io/FindHelp/Lists-WhatIsAWordToFind.html"
 		},
 		{
-			"name": "How do I delete a match?",
-			"url": "https://aheze.github.io/FindHelp/Lists-DeleteMatch.html"
+			"name": "How do I add a word?",
+			"url": "https://aheze.github.io/FindHelp/Lists-AddWord.html"
+		},
+		{
+			"name": "How do I delete a word?",
+			"url": "https://aheze.github.io/FindHelp/Lists-DeleteWord.html"
 		},
 		{
 			"name": "Photos Controls",
