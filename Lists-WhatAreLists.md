@@ -3,50 +3,51 @@ title: What are Lists?
 ---
  
 # What are Lists?
-With Lists, you can save your searches for later. When you first install Find, 2 pre-made lists are at your disposal:
+A "List" is a list of words that Find searches for simultaneously. The words that a list contains are called [Words to Find](/Lists-WhatIsAWordToFind.md). With Lists, you can save your searches for later.
+
+When you first install Find, 2 pre-made lists are at your disposal:
 - Gluten-Free
 - Word Problems
 
-Anyways, a "List" is a list of words that Find searches for simultaneously. The words that a list contains are called [Matches](/Lists-WhatIsAMatch.md).
-
-__Example:__ You make a list, called "Nature". It contains the following matches:
+__Example:__ You make a list, called "Nature". It contains the following words:
 
 - Tree
 - Rock
 - Fish
 - Stick
 
-Now, when you use this list, Find searches for "Tree", "Rock", "Fish",  and "Stick" _at the same time_.
+Now, when you use this list, Find will search for "Tree", "Rock", "Fish", and "Stick" at the same time.
 
 ## Making your list
-1. Start at the home screen of Find. 
-2. Then, press the Menu button (The 3x3 dot grid), and then press the Lists button.
-3. Press the ![addList] button.
-4. The List Builder will appear! Add a name and description, then start adding Matches. Remember, matches are the words that Find will search for (when you use the list).
+1. Start at the home screen of Find.
+2. Tap the **menu** button (The 3x3 dot grid), and then tap the **Lists** button
+3. Press the ![addList] button
+4. The **List Builder** will appear! Add a name, description, and some words
 
 ## Customizing your list
 __Changing the icon__
-1. Press `Icon`.
-2. Select a icon that you think represents the list well.
+1. Press **Icon**
+2. Select an icon
 &nbsp;
 
 __Changing the color__
 
-1. Press `Color`.
+1. Press **Color*
 2. Select any color that you want. A color will help you organize you lists better, as well as find them faster.
-3. As a side note, the color that you pick will also be the highlight color of found matches when you use the list.
+
+> Tip: When you use the list, your selected color will be the highlight color of search results.
 
 ## Using your list
 
 In Find, you can search for text either:
-- in the home screen
-- in History
+- in the home screen (using the camera)
+- in Photos
 
-In both places, your lists appear above you keyboard. See below:
+In both places, your lists appear above your keyboard, like this:
 
 ![toolbar]
 
-To use it, simply tap on the list. 
+To use one, simply tap on the list. 
 
 To remove it, just tap on the newly added list.
 
