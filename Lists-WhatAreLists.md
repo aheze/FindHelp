@@ -26,13 +26,13 @@ Now, when you use this list, Find will search for "Tree", "Rock", "Fish", and "S
 
 ## Customizing your list
 __Changing the icon__
-1. Press **Icon**
+1. Tap **Icon**
 2. Select an icon
 &nbsp;
 
 __Changing the color__
 
-1. Press **Color*
+1. Tap **Color**
 2. Select any color that you want. A color will help you organize you lists better, as well as find them faster.
 
 > Tip: When you use the list, your selected color will be the highlight color of search results.
