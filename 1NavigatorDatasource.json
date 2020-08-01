@@ -1,73 +1,73 @@
 {
 	"ListsHelpArray": [{
 			"name": "What are Lists?",
-			"url": "https://zjohnzheng.github.io/FindHelp/Lists-WhatAreLists.html"
+			"url": "https://aheze.github.io/FindHelp/Lists-WhatAreLists.html"
 		},
 		{
 			"name": "How do I delete a List?",
-			"url": "https://zjohnzheng.github.io/FindHelp/Lists-DeleteList.html"
+			"url": "https://aheze.github.io/FindHelp/Lists-DeleteList.html"
 		},
 		{
 			"name": "What is a match?",
-			"url": "https://zjohnzheng.github.io/FindHelp/Lists-WhatIsAMatch.html"
+			"url": "https://aheze.github.io/FindHelp/Lists-WhatIsAMatch.html"
 		},
 		{
 			"name": "How do I add a match?",
-			"url": "https://zjohnzheng.github.io/FindHelp/Lists-AddMatch.html"
+			"url": "https://aheze.github.io/FindHelp/Lists-AddMatch.html"
 		},
 		{
 			"name": "How do I delete a match?",
-			"url": "https://zjohnzheng.github.io/FindHelp/Lists-DeleteMatch.html"
+			"url": "https://aheze.github.io/FindHelp/Lists-DeleteMatch.html"
 		},
 		{
 			"name": "I've found a bug. Can I send feedback?",
-			"url": "https://zjohnzheng.github.io/FindHelp/FoundBug-SendFeedback.html"
+			"url": "https://aheze.github.io/FindHelp/FoundBug-SendFeedback.html"
 		}
 			   
 	],
 	"HistoryFindHelpArray": [
 		{
-			"name": "History Controls",
-			"url": "https://zjohnzheng.github.io/FindHelp/History-HistoryControls.html"
+			"name": "Photos Controls",
+			"url": "https://aheze.github.io/FindHelp/Photos-PhotosControls.html"
 		},
 		{
 			"name": "What is the Cache?",
-			"url": "https://zjohnzheng.github.io/FindHelp/History-WhatIsTheCache.html"
+			"url": "https://aheze.github.io/FindHelp/Photos-WhatIsTheCache.html"
 		},
 		{
 			"name": "How do I cache photos?",
-			"url": "https://zjohnzheng.github.io/FindHelp/History-CachePhotos.html"
+			"url": "https://aheze.github.io/FindHelp/Photos-CachePhotos.html"
 		},
 		{
 			"name": "How do I uncache photos?",
-			"url": "https://zjohnzheng.github.io/FindHelp/History-UncachePhotos.html"
+			"url": "https://aheze.github.io/FindHelp/Photos-UncachePhotos.html"
 		},
         {
-			"name": "Why does Finding from History take so long?",
-			"url": "https://zjohnzheng.github.io/FindHelp/History-TakeLongTime.html"
+			"name": "Why does Finding from Photos take so long?",
+			"url": "https://aheze.github.io/FindHelp/Photos-TakeLongTime.html"
 		},
         {
 			"name": "What does Hearting do?",
-			"url": "https://zjohnzheng.github.io/FindHelp/History-Hearting.html"
+			"url": "https://aheze.github.io/FindHelp/Photos-Hearting.html"
 		},
         {
 			"name": "How do I find from ALL my photos?",
-			"url": "https://zjohnzheng.github.io/FindHelp/History-FindFromAllPhotos.html"
+			"url": "https://aheze.github.io/FindHelp/Photos-FindFromAllPhotos.html"
 		},
         {
 			"name": "I've found a bug. Can I send feedback?",
-			"url": "https://zjohnzheng.github.io/FindHelp/FoundBug-SendFeedback.html"
+			"url": "https://aheze.github.io/FindHelp/FoundBug-SendFeedback.html"
 		}
                            
 	],
 	"SettingsHelpArray": [
 		{
 			"name": "What are Lists?",
-			"url": "https://zjohnzheng.github.io/FindHelp/Lists-WhatAreLists.html"
+			"url": "https://aheze.github.io/FindHelp/Lists-WhatAreLists.html"
 		},
 		{
 			"name": "How do I delete a List?",
-			"url": "https://zjohnzheng.github.io/FindHelp/Lists-DeleteList.html"
+			"url": "https://aheze.github.io/FindHelp/Lists-DeleteList.html"
 		},
 		{
 			"name": "What is a match?",
@@ -75,35 +75,35 @@
 		},
 		{
 			"name": "How do I delete a match?",
-			"url": "https://zjohnzheng.github.io/FindHelp/Lists-DeleteMatch.html"
+			"url": "https://aheze.github.io/FindHelp/Lists-DeleteMatch.html"
 		},
 		{
-			"name": "History Controls",
-			"url": "https://zjohnzheng.github.io/FindHelp/History-HistoryControls.html"
+			"name": "Photos Controls",
+			"url": "https://aheze.github.io/FindHelp/Photos-PhotosControls.html"
 		},
 		{
 			"name": "What is the Cache?",
-			"url": "https://zjohnzheng.github.io/FindHelp/History-WhatIsTheCache.html"
+			"url": "https://aheze.github.io/FindHelp/Photos-WhatIsTheCache.html"
 		},
 		{
 			"name": "How do I cache photos?",
-			"url": "https://zjohnzheng.github.io/FindHelp/History-CachePhotos.html"
+			"url": "https://aheze.github.io/FindHelp/Photos-CachePhotos.html"
 		},
 		{
 			"name": "How do I uncache photos?",
-			"url": "https://zjohnzheng.github.io/FindHelp/History-UncachePhotos.html"
+			"url": "https://aheze.github.io/FindHelp/Photos-UncachePhotos.html"
 		},
         {
-			"name": "Why does Finding from History take so long?",
-			"url": "https://zjohnzheng.github.io/FindHelp/History-TakeLongTime.html"
+			"name": "Why does Finding from Photos take so long?",
+			"url": "https://aheze.github.io/FindHelp/Photos-TakeLongTime.html"
 		},
         {
 			"name": "What does Hearting do?",
-			"url": "https://zjohnzheng.github.io/FindHelp/History-Hearting.html"
+			"url": "https://zjohnzheng.github.io/FindHelp/Photos-Hearting.html"
 		},
         {
 			"name": "How do I find from ALL my photos?",
-			"url": "https://zjohnzheng.github.io/FindHelp/History-FindFromAllPhotos.html"
+			"url": "https://zjohnzheng.github.io/FindHelp/Photos-FindFromAllPhotos.html"
 		},
         {
 			"name": "I've found a bug. Can I send feedback?",
