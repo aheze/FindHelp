@@ -5,7 +5,7 @@ title: How do I delete a list?
 
 **If you want to delete a couple of Lists:**
 1. Open up the Lists window
-2. Press `Select`
+2. Press **Select**
 3. Select the lists that you want to delete. Then press the trash icon to delete the lists.
 ![deleteListFloat]
 
