@@ -56,5 +56,5 @@ To remove it, just tap on the newly added list.
 > Something wrong? [Leave feedback](https://forms.gle/agdyoB9PFfnv8cU1A/)
 
 [addList]: https://raw.githubusercontent.com/zjohnzheng/FindHelp/master/images/addList.jpg
-[toolbar]: https://raw.githubusercontent.com/zjohnzheng/FindHelp/master/images/Toolbar.PNG
+[toolbar]: https://raw.githubusercontent.com/aheze/FindHelp/master/images/newToolbar.jpg
 [toolbarUse]: https://raw.githubusercontent.com/zjohnzheng/FindHelp/master/images/Use%20List%20from%20Toolbar.PNG
