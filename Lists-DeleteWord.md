@@ -1,9 +1,9 @@
 ---
-title: How to delete a match
+title: How to delete a word
 --- 
-# How to delete a match
+# How to delete a word
 
-Just swipe left on a match, then tap `Delete`!
+Just swipe left on a word, then tap **Delete**!
 ![logo]
 
 > Something wrong? [Leave feedback](https://forms.gle/agdyoB9PFfnv8cU1A/)
