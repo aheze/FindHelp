@@ -3,7 +3,7 @@ title: What are Lists?
 ---
  
 # What are Lists?
-A "List" is a list of words that Find searches for simultaneously. The words that a list contains are called [Words to Find](/Lists-WhatIsAWordToFind.md). With Lists, you can save your searches for later.
+A "List" is a list of words that Find searches for simultaneously. The words that a list contains are called [Words to Find](/Lists-WhatIsAWordToFind.md).
 
 When you first install Find, 2 pre-made lists are at your disposal:
 - Gluten-Free
