@@ -3,9 +3,7 @@ title: Uncache Photos
 ---
 
 # Uncache Photos
-
-It's easy! If a photo is cached, the cache icon will change from ![cache] into ![uncache].
-Then, just hit the uncache icon!
+Just tap the ![cache] or ![uncache] icon!
 
 > Something wrong? [Leave feedback](https://forms.gle/agdyoB9PFfnv8cU1A/)
 
