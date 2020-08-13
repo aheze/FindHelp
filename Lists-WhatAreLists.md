@@ -21,7 +21,7 @@ Now, when you use this list, Find will search for "Tree", "Rock", "Fish", and "S
 ## Making your list
 1. Start at the home screen of Find.
 2. Tap the **menu** button (The 3x3 dot grid), and then tap the **Lists** button
-3. Press the ![addList] button
+3. Press the <img src="https://raw.githubusercontent.com/zjohnzheng/FindHelp/master/images/addList.jpg" height="22"> button
 4. The **List Builder** will appear! Add a name, description, and some words
 
 ## Customizing your list
