@@ -28,7 +28,7 @@ General Improvements:
 - As long as one photo is not yet cached, tapping Cache when multiple photos are selected will now cache all selected photos
 - Warnings are less obstructive
 
-## 1.0.1 _April 18_ (377)
+## 1.0.2 _April 18_ (377)
 
 New Features:
 - Share photos!
