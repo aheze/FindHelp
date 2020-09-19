@@ -80,3 +80,7 @@ General Improvements.
 - Added background blurs
 - Updated support URL
 
+## 1.1.3 _September 18_ (880)
+
+Minor updates!
+• Faster and more efficient finding
