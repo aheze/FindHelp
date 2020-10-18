@@ -86,7 +86,7 @@ Minor updates!
 
 • Faster and more efficient finding
 
-## 1.1.4 _October 18_ (880)
+## 1.1.4 _October 18_ (885)
 
 Minor updates!
 
