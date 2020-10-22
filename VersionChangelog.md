@@ -91,3 +91,9 @@ Minor updates!
 Minor updates!
 
 • Fixed broken links
+
+## 1.1.5 _October 22_ (887)
+
+Minor updates!
+
+• Updated screenshots
