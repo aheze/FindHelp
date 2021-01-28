@@ -9,4 +9,3 @@ You can add a new word in 2 ways:
 > Something wrong? [Leave feedback](https://forms.gle/agdyoB9PFfnv8cU1A/)
 
 
-[logo]: https://raw.githubusercontent.com/zjohnzheng/FindHelp/master/images/newAddMatch.jpg
