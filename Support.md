@@ -24,4 +24,4 @@ Photos:
 General:
 - [I've found a bug. Can I send feedback?](https://aheze.github.io/FindHelp/FoundBug-SendFeedback.html)
 
-If you have any questions, feel free to contact me at zjohnzheng@gmail.com
+If you have any questions, feel free to DM me on [Discord](https://discord.com/users/743230678795288637) or [Reddit](https://www.reddit.com/user/aheze). [Email](mailto:aheze@getfind.app) is fine too.
